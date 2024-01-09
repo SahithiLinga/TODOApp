@@ -1,0 +1,18 @@
+.Application {
+  font-family: sans-serif;
+  text-align: center;  
+}
+
+h1,h2{
+  display: flex;
+  justify-content:center;
+}
+
+li{
+  display: flex;
+  justify-content:center;
+}
+
+li.done{
+  text-decoration: line-through;
+}
